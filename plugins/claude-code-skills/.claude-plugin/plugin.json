@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-skills",
+  "version": "1.0.0",
+  "description": "14 free skills for Claude Code: design-first prototyping, hooks, plugins, subagents, CI, evals, Agent SDK, tool schemas, session handoff and permissions hardening.",
+  "author": { "name": "Ignasi Sant" },
+  "license": "MIT",
+  "homepage": "https://github.com/ignasisant/claude-code-skills",
+  "keywords": ["claude-code", "skills", "hooks", "subagents", "evals", "prototyping"]
+}
