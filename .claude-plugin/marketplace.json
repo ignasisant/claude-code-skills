@@ -1,0 +1,12 @@
+{
+  "name": "ignasisant-skills",
+  "owner": { "name": "Ignasi Sant" },
+  "plugins": [
+    {
+      "name": "claude-code-skills",
+      "source": "./plugins/claude-code-skills",
+      "description": "14 free skills for Claude Code: design-first prototyping, hooks, plugins, subagents, CI, evals, Agent SDK, tool schemas, session handoff and permissions hardening.",
+      "version": "1.0.0"
+    }
+  ]
+}
